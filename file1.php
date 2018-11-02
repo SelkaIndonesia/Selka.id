@@ -6,6 +6,6 @@
     </head>
     <body>
         <p>Hello Dunia !, Saya sedang belajar Git</p>
-        <p>Saya rubah ini di master</p>
+        <p>Saya rubah ini di branch cart</p>
     </body>
 </html>
